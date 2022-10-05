@@ -1,3 +1,3 @@
 # onethespot
 
-# [MOVED TO ONTHESPOT](https://github.com/onthespot)
+# [MOVED TO   CASUALSNEK/ONTHESPOT](https://github.com/casualsnek/onthespot)
